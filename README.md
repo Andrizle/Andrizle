@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Andrew</h1>
+![image](https://github.com/Andrizle/Andrizle/assets/142128377/1558b0ae-5cb4-4162-9645-425725c39b9a)<h1>👋 Hi, I’m Andrew</h1>
 
 <h2>A little bit about me...</h2>
 <div>
@@ -29,6 +29,56 @@ All of this is not to say I don't know how to relax. In my free time, you get on
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<h3>My Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Preview</b></td>
+      <td><b>Description</b></td>
+      <td><b>Features</b></td>
+      <td><b>Technologies</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img alt="Preview Img" src="https://github.com/Andrizle/Andrizle/assets/142128377/a37040ff-9671-441d-a009-9020d482df10"/></td>
+	     <td>A Clone of Yelp centered more closely imitating the business account so businesses can be created first to be reviewed</td>
+      <td>Businesses, Reviews, Filter</td>
+      <td> 
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+	  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	</td>
+    </tr>
+	  <tr>
+      <td><img alt="Preview Img" src="https://github.com/Andrizle/Andrizle/assets/142128377/f357af52-34f4-44c1-88a8-a84f1ef7ab88" /></td>
+      <td>Nearly identical clone of Discord with some adjustments to make the landing page a bit friendlier</td>
+      <td>Servers, Channels, Messages, Reactions, Profile</td>
+      <td>
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
+	  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> 
+	</td>
+    </tr>
+    <tr>
+      <td><img alt="Preview Img" src="https://github.com/Andrizle/Andrizle/assets/142128377/44903bc0-bb37-4e5b-922c-bf01b5feeee5"/></td>
+      <td>Color inverted version of AirBnb</td>
+      <td>Spots, Reviews, Spot Images</td>
+      <td>
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
+	  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+	  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+	  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+	</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Gaming</h2>
 <p>I mostly enjoy playing single player campaign games, but there's some multiplayer games I'll play with my friends</p>
