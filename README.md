@@ -1,4 +1,4 @@
-![image](https://github.com/Andrizle/Andrizle/assets/142128377/1558b0ae-5cb4-4162-9645-425725c39b9a)<h1>👋 Hi, I’m Andrew</h1>
+<h1>👋 Hi, I’m Andrew</h1>
 
 <h2>A little bit about me...</h2>
 <div>
